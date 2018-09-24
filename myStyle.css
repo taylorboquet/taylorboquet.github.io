@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html> 
-    <head>
+<head>
         <title>Taylor's Website</title>
             <style>
                 body{
@@ -71,35 +69,3 @@
             </style>
             <link rel="stylesheet" type="text/css" href="myStyle.css"></link>
     </head>
-    <body>
-        <div id="all-contents">
-            <nav>
-                <header>Taylor's Website</header>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="portfolio.html">Portfolio</a></li>
-                </ul>
-            </nav>
-            
-            <main>
-                <div class="sidebar">
-                    <img src="https://media.brides.com/photos/5994759d8c2b365d5c23c0c5/1:1/w_767/A.P.%2520Bio%2520rose%2520detail.png">
-                    
-                </div>
-                    
-                <div class="content">
-                    <header> Taylor Boquet </header>
-                    <p> Student at Lakeshore High </p>
-                    <section class="interest">
-                        <header>Interest</header>
-                        <ul>
-                            <li>Drawing flowers</li>
-                            <li>Watching YouTube</li>
-                            <li>Hanging out with friends</li>
-                        </ul>
-                    </section>
-                </div>
-            </main>
-        </div>
-    </body>
-</html>
